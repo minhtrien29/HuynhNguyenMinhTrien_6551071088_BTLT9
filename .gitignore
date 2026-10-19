@@ -1,0 +1,19 @@
+# Build & Binary Folders
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Appsettings with secrets / passwords (keep examples)
+**/appsettings.Development.json
+
+# Logs
+Logs/
+**/Logs/
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
